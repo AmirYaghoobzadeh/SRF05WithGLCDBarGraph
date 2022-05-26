@@ -24,7 +24,6 @@ void loop()
     digitalWrite(led, HIGH);
     Serial.print("Out Of Range...");
     GLCD.print("Out Of Range...");
-
   }
   else
   {
